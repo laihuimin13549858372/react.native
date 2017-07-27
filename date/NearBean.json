@@ -1,0 +1,620 @@
+{
+  "allItem": {
+    "nearbeans": [
+      {
+        "descrption": "[新市]实惠双人餐，提供免费wifi",
+        "distance": "<10.7km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic1.png",
+        "marketPrice": 30.0,
+        "price": 13.0,
+        "sales": 364,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "籽嘉饼屋（工业大道店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "特色菜，提供免费wifi",
+        "distance": "20km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic2.png",
+        "marketPrice": 38.3,
+        "price": 17.0,
+        "sales": 264,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "仙踪林（中大科技园店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "开店秒杀，建议单人使用",
+        "distance": ">7.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic3.png",
+        "marketPrice": 37.0,
+        "price": 23.0,
+        "sales": 656,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "香港海鲜酒家",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[2店通用],提供免费wifi]",
+        "distance": "6.3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic4.png",
+        "marketPrice": 84.5,
+        "price": 73.5,
+        "sales": 954,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "赛牛炙烧牛排（江南西分店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[全国]官方套餐，提供免费wifi",
+        "distance": "3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic5.png",
+        "marketPrice": 28.7,
+        "price": 10.0,
+        "sales": 1564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "科尔海悦酒店柏顿西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[荔湾区]提供免费wifi",
+        "distance": ">8.1km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic6.png",
+        "marketPrice": 33.0,
+        "price": 11.0,
+        "sales": 564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "广州香格里拉大酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[3门店通用]单人套餐，提供免费wifi",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic7.png",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "海皇轩食府（珠江新城国门店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[新市]单人套餐，建议二选一",
+        "distance": "<3.6km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic8.png",
+        "marketPrice": 26.5,
+        "price": 19.0,
+        "sales": 514,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "南国花园南国酒家",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_payment.png"
+        ]
+      },
+      {
+        "descrption": "[2门店通用]特色菜，建议双人使用，",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic9.png",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "枫叶西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[天河区]单人套餐，提供免费wifi",
+        "distance": "<10km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic10.png",
+        "marketPrice": 67.0,
+        "price": 33.0,
+        "sales": 354,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "九龙半岛西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png"
+        ]
+      },
+      {
+        "descrption": "[10门店通用]单人套餐，提供免费wifi",
+        "distance": "7.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic11.png",
+        "marketPrice": 98.0,
+        "price": 56.0,
+        "sales": 488,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "名家园韩国料理",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|棠下，免费wifi]",
+        "distance": "6.3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic1.jpg",
+        "marketPrice": 84.5,
+        "price": 73.5,
+        "sales": 954,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "城市便捷酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|棠下，免费wifi",
+        "distance": "3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic2.jpg",
+        "marketPrice": 28.7,
+        "price": 10.0,
+        "sales": 1564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "文星连锁酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|天河",
+        "distance": ">8.1km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic3.jpg",
+        "marketPrice": 33.0,
+        "price": 11.0,
+        "sales": 564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "广州香格里拉大酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|棠下",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic4.jpg",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "百家快捷酒店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|天河公园，",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic5.jpg",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "凯哥酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "足疗按摩|海珠",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic6.jpg",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "高山理疗官",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "电影院|棠下",
+        "distance": "<3.6km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic7.jpg",
+        "marketPrice": 26.5,
+        "price": 19.0,
+        "sales": 514,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "龙影国际影城",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "电影院|天河",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic8.jpg",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "哈艺时尚",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "美甲|天河",
+        "distance": "<10km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic9.jpg",
+        "marketPrice": 67.0,
+        "price": 33.0,
+        "sales": 354,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "321美甲店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "足疗按摩|棠下",
+        "distance": "7.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic10.jpg",
+        "marketPrice": 98.0,
+        "price": 56.0,
+        "sales": 488,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "金柏莱休闲汇",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      }
+    ]
+  },
+  "foodItem": {
+    "nearbeans": [
+      {
+        "descrption": "[新市]实惠双人餐，提供免费wifi",
+        "distance": "<10.7km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic1.png",
+        "marketPrice": 30.0,
+        "price": 13.0,
+        "sales": 364,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "籽嘉饼屋（工业大道店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "特色菜，提供免费wifi",
+        "distance": "20km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic2.png",
+        "marketPrice": 38.3,
+        "price": 17.0,
+        "sales": 264,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "仙踪林（中大科技园店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "开店秒杀，建议单人使用",
+        "distance": ">7.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic3.png",
+        "marketPrice": 37.0,
+        "price": 23.0,
+        "sales": 656,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "香港海鲜酒家",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[2店通用],提供免费wifi]",
+        "distance": "6.3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic4.png",
+        "marketPrice": 84.5,
+        "price": 73.5,
+        "sales": 954,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "赛牛炙烧牛排（江南西分店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[全国]官方套餐，提供免费wifi",
+        "distance": "3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic5.png",
+        "marketPrice": 28.7,
+        "price": 10.0,
+        "sales": 1564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "科尔海悦酒店柏顿西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[荔湾区]提供免费wifi",
+        "distance": ">8.1km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic6.png",
+        "marketPrice": 33.0,
+        "price": 11.0,
+        "sales": 564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "广州香格里拉大酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[3门店通用]单人套餐，提供免费wifi",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic7.png",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "海皇轩食府（珠江新城国门店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[新市]单人套餐，建议二选一",
+        "distance": "<3.6km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic8.png",
+        "marketPrice": 26.5,
+        "price": 19.0,
+        "sales": 514,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "南国花园南国酒家",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_payment.png"
+        ]
+      },
+      {
+        "descrption": "[2门店通用]特色菜，建议双人使用，",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic9.png",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "枫叶西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "[天河区]单人套餐，提供免费wifi",
+        "distance": "<10km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic10.png",
+        "marketPrice": 67.0,
+        "price": 33.0,
+        "sales": 354,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "九龙半岛西餐厅",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png"
+        ]
+      },
+      {
+        "descrption": "[10门店通用]单人套餐，提供免费wifi",
+        "distance": "7.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/category/pic11.png",
+        "marketPrice": 98.0,
+        "price": 56.0,
+        "sales": 488,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "名家园韩国料理",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/food_poi_icon_voucher.png"
+        ]
+      }
+    ],
+    "topLables": [
+      "热门",
+      "小吃快餐",
+      "面包甜点",
+      "川菜",
+      "湘菜",
+      "日本料理",
+      "韩国料理",
+      "东北菜"
+    ]
+  },
+  "hotelItem": {
+    "nearbeans": [
+      {
+        "descrption": "经济酒店|棠下，免费wifi]",
+        "distance": "6.3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic1.jpg",
+        "marketPrice": 84.5,
+        "price": 73.5,
+        "sales": 954,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "城市便捷酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|棠下，免费wifi",
+        "distance": "3km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic2.jpg",
+        "marketPrice": 28.7,
+        "price": 10.0,
+        "sales": 1564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "文星连锁酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|天河",
+        "distance": ">8.1km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic3.jpg",
+        "marketPrice": 33.0,
+        "price": 11.0,
+        "sales": 564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "广州香格里拉大酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|棠下",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic4.jpg",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "百家快捷酒店）",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "经济酒店|天河公园，",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic5.jpg",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "凯哥酒店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      }
+    ],
+    "topLables": [
+      "热门",
+      "商务出行",
+      "公寓民宿",
+      "品牌连锁",
+      "高星特惠",
+      "情侣专享"
+    ]
+  },
+  "playItem": {
+    "nearbeans": [
+      {
+        "descrption": "足疗按摩|海珠",
+        "distance": ">1.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic6.jpg",
+        "marketPrice": 30.0,
+        "price": 16.6,
+        "sales": 2564,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star50.png",
+        "storeName": "高山理疗官",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "电影院|棠下",
+        "distance": "<3.6km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic7.jpg",
+        "marketPrice": 26.5,
+        "price": 19.0,
+        "sales": 514,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star40.png",
+        "storeName": "龙影国际影城",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/favorite_ic_booking.png"
+        ]
+      },
+      {
+        "descrption": "电影院|天河",
+        "distance": "15.5km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic8.jpg",
+        "marketPrice": 63.5,
+        "price": 47.8,
+        "sales": 64,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star30.png",
+        "storeName": "哈艺时尚",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "美甲|天河",
+        "distance": "<10km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic9.jpg",
+        "marketPrice": 67.0,
+        "price": 33.0,
+        "sales": 354,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star20.png",
+        "storeName": "321美甲店",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      },
+      {
+        "descrption": "足疗按摩|棠下",
+        "distance": "7.8km",
+        "icon": "http://47.93.30.78:8080/MeiTuan/image/near/pic10.jpg",
+        "marketPrice": 98.0,
+        "price": 56.0,
+        "sales": 488,
+        "starIcon": "http://47.93.30.78:8080/MeiTuan/image/near/trip_oversea_star10.png",
+        "storeName": "金柏莱休闲汇",
+        "tagIcons": [
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_discount.png",
+          "http://47.93.30.78:8080/MeiTuan/image/near/beauty_ic_tuan.png"
+        ]
+      }
+    ],
+    "topLables": [
+      "热门",
+      "KTV",
+      "足疗按摩",
+      "洗浴汗蒸",
+      "电影院",
+      "美发",
+      "美甲",
+      "桌游/电玩"
+    ]
+  }
+}
